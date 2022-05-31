@@ -1,0 +1,403 @@
+<?xml version="1.0" ?>
+  <tableSporstman>
+    <sportsman>
+      <name>Hugh Toevs</name>
+      <line_up>reserve</line_up>
+      <position>midfielder</position>
+      <titles>50</titles>
+      <sport_type>football</sport_type>
+      <rank>1st</rank>
+    </sportsman>
+    <sportsman>
+      <name>Lucas Dyches</name>
+      <line_up>main</line_up>
+      <position>defender</position>
+      <titles>26</titles>
+      <sport_type>football</sport_type>
+      <rank>3d</rank>
+    </sportsman>
+    <sportsman>
+      <name>Edward Jones</name>
+      <line_up>main</line_up>
+      <position>forward</position>
+      <titles>121</titles>
+      <sport_type>football</sport_type>
+      <rank>3d</rank>
+    </sportsman>
+    <sportsman>
+      <name>Emma Tucker</name>
+      <line_up>main</line_up>
+      <position>forward</position>
+      <titles>73</titles>
+      <sport_type>football</sport_type>
+      <rank>CMS</rank>
+    </sportsman>
+    <sportsman>
+      <name>Randall Herron</name>
+      <line_up>n/a</line_up>
+      <position>goalkeeper</position>
+      <titles>62</titles>
+      <sport_type>football</sport_type>
+      <rank>3d</rank>
+    </sportsman>
+    <sportsman>
+      <name>Cora Villareal</name>
+      <line_up>n/a</line_up>
+      <position>midfielder</position>
+      <titles>13</titles>
+      <sport_type>football</sport_type>
+      <rank>CMS</rank>
+    </sportsman>
+    <sportsman>
+      <name>Magdalena Getz</name>
+      <line_up>reserve</line_up>
+      <position>forward</position>
+      <titles>142</titles>
+      <sport_type>football</sport_type>
+      <rank>CMS</rank>
+    </sportsman>
+    <sportsman>
+      <name>Sylvia Scuderi</name>
+      <line_up>reserve</line_up>
+      <position>goalkeeper</position>
+      <titles>38</titles>
+      <sport_type>football</sport_type>
+      <rank>3d</rank>
+    </sportsman>
+    <sportsman>
+      <name>Jane Bevelacqua</name>
+      <line_up>main</line_up>
+      <position>forward</position>
+      <titles>63</titles>
+      <sport_type>football</sport_type>
+      <rank>CMS</rank>
+    </sportsman>
+    <sportsman>
+      <name>Tammy Schorr</name>
+      <line_up>n/a</line_up>
+      <position>goalkeeper</position>
+      <titles>37</titles>
+      <sport_type>football</sport_type>
+      <rank>1st</rank>
+    </sportsman>
+    <sportsman>
+      <name>William Mason</name>
+      <line_up>reserve</line_up>
+      <position>forward</position>
+      <titles>127</titles>
+      <sport_type>football</sport_type>
+      <rank>3d</rank>
+    </sportsman>
+    <sportsman>
+      <name>Mary Davis</name>
+      <line_up>reserve</line_up>
+      <position>forward</position>
+      <titles>101</titles>
+      <sport_type>football</sport_type>
+      <rank>2nd</rank>
+    </sportsman>
+    <sportsman>
+      <name>Regina Findley</name>
+      <line_up>reserve</line_up>
+      <position>defender</position>
+      <titles>50</titles>
+      <sport_type>football</sport_type>
+      <rank>2nd</rank>
+    </sportsman>
+    <sportsman>
+      <name>Myrtice Coleman</name>
+      <line_up>reserve</line_up>
+      <position>goalkeeper</position>
+      <titles>97</titles>
+      <sport_type>football</sport_type>
+      <rank>3d</rank>
+    </sportsman>
+    <sportsman>
+      <name>Dean Baez</name>
+      <line_up>reserve</line_up>
+      <position>defender</position>
+      <titles>128</titles>
+      <sport_type>football</sport_type>
+      <rank>2nd</rank>
+    </sportsman>
+    <sportsman>
+      <name>William King</name>
+      <line_up>n/a</line_up>
+      <position>midfielder</position>
+      <titles>102</titles>
+      <sport_type>football</sport_type>
+      <rank>CMS</rank>
+    </sportsman>
+    <sportsman>
+      <name>Luke Sievers</name>
+      <line_up>reserve</line_up>
+      <position>goalkeeper</position>
+      <titles>64</titles>
+      <sport_type>football</sport_type>
+      <rank>3d</rank>
+    </sportsman>
+    <sportsman>
+      <name>Grace Fisherman</name>
+      <line_up>reserve</line_up>
+      <position>defender</position>
+      <titles>124</titles>
+      <sport_type>football</sport_type>
+      <rank>2nd</rank>
+    </sportsman>
+    <sportsman>
+      <name>Angie Ling</name>
+      <line_up>main</line_up>
+      <position>goalkeeper</position>
+      <titles>150</titles>
+      <sport_type>football</sport_type>
+      <rank>CMS</rank>
+    </sportsman>
+    <sportsman>
+      <name>John Eldridge</name>
+      <line_up>main</line_up>
+      <position>midfielder</position>
+      <titles>35</titles>
+      <sport_type>football</sport_type>
+      <rank>master</rank>
+    </sportsman>
+    <sportsman>
+      <name>Rita Antle</name>
+      <line_up>main</line_up>
+      <position>defender</position>
+      <titles>126</titles>
+      <sport_type>football</sport_type>
+      <rank>2nd</rank>
+    </sportsman>
+    <sportsman>
+      <name>Thomas Onell</name>
+      <line_up>main</line_up>
+      <position>forward</position>
+      <titles>68</titles>
+      <sport_type>football</sport_type>
+      <rank>1st</rank>
+    </sportsman>
+    <sportsman>
+      <name>Wanda Adkinson</name>
+      <line_up>main</line_up>
+      <position>defender</position>
+      <titles>100</titles>
+      <sport_type>football</sport_type>
+      <rank>2nd</rank>
+    </sportsman>
+    <sportsman>
+      <name>Matthew Valdez</name>
+      <line_up>main</line_up>
+      <position>forward</position>
+      <titles>38</titles>
+      <sport_type>football</sport_type>
+      <rank>3d</rank>
+    </sportsman>
+    <sportsman>
+      <name>George Gonzalez</name>
+      <line_up>reserve</line_up>
+      <position>midfielder</position>
+      <titles>148</titles>
+      <sport_type>football</sport_type>
+      <rank>2nd</rank>
+    </sportsman>
+    <sportsman>
+      <name>Kevin Eggers</name>
+      <line_up>main</line_up>
+      <position>defender</position>
+      <titles>33</titles>
+      <sport_type>football</sport_type>
+      <rank>3d</rank>
+    </sportsman>
+    <sportsman>
+      <name>Marietta Castillo</name>
+      <line_up>reserve</line_up>
+      <position>forward</position>
+      <titles>15</titles>
+      <sport_type>football</sport_type>
+      <rank>3d</rank>
+    </sportsman>
+    <sportsman>
+      <name>Larry Liss</name>
+      <line_up>n/a</line_up>
+      <position>defender</position>
+      <titles>141</titles>
+      <sport_type>football</sport_type>
+      <rank>master</rank>
+    </sportsman>
+    <sportsman>
+      <name>Joshua Johnson</name>
+      <line_up>n/a</line_up>
+      <position>forward</position>
+      <titles>133</titles>
+      <sport_type>football</sport_type>
+      <rank>master</rank>
+    </sportsman>
+    <sportsman>
+      <name>Francisco Alesci</name>
+      <line_up>main</line_up>
+      <position>goalkeeper</position>
+      <titles>66</titles>
+      <sport_type>football</sport_type>
+      <rank>master</rank>
+    </sportsman>
+    <sportsman>
+      <name>Harold Lymon</name>
+      <line_up>main</line_up>
+      <position>goalkeeper</position>
+      <titles>28</titles>
+      <sport_type>football</sport_type>
+      <rank>CMS</rank>
+    </sportsman>
+    <sportsman>
+      <name>Lorraine Recalde</name>
+      <line_up>main</line_up>
+      <position>defender</position>
+      <titles>39</titles>
+      <sport_type>football</sport_type>
+      <rank>CMS</rank>
+    </sportsman>
+    <sportsman>
+      <name>Alice Welch</name>
+      <line_up>reserve</line_up>
+      <position>goalkeeper</position>
+      <titles>28</titles>
+      <sport_type>football</sport_type>
+      <rank>1st</rank>
+    </sportsman>
+    <sportsman>
+      <name>Michelle Seals</name>
+      <line_up>n/a</line_up>
+      <position>goalkeeper</position>
+      <titles>113</titles>
+      <sport_type>football</sport_type>
+      <rank>2nd</rank>
+    </sportsman>
+    <sportsman>
+      <name>Anna Amick</name>
+      <line_up>reserve</line_up>
+      <position>forward</position>
+      <titles>46</titles>
+      <sport_type>football</sport_type>
+      <rank>3d</rank>
+    </sportsman>
+    <sportsman>
+      <name>Willie Pennington</name>
+      <line_up>n/a</line_up>
+      <position>goalkeeper</position>
+      <titles>78</titles>
+      <sport_type>football</sport_type>
+      <rank>master</rank>
+    </sportsman>
+    <sportsman>
+      <name>Herman Barefield</name>
+      <line_up>n/a</line_up>
+      <position>midfielder</position>
+      <titles>100</titles>
+      <sport_type>football</sport_type>
+      <rank>master</rank>
+    </sportsman>
+    <sportsman>
+      <name>Christopher Sanchez</name>
+      <line_up>n/a</line_up>
+      <position>goalkeeper</position>
+      <titles>26</titles>
+      <sport_type>football</sport_type>
+      <rank>master</rank>
+    </sportsman>
+    <sportsman>
+      <name>Ruth Tep</name>
+      <line_up>n/a</line_up>
+      <position>forward</position>
+      <titles>47</titles>
+      <sport_type>football</sport_type>
+      <rank>3d</rank>
+    </sportsman>
+    <sportsman>
+      <name>Dustin Brubaker</name>
+      <line_up>n/a</line_up>
+      <position>goalkeeper</position>
+      <titles>0</titles>
+      <sport_type>football</sport_type>
+      <rank>2nd</rank>
+    </sportsman>
+    <sportsman>
+      <name>Darcy Poole</name>
+      <line_up>main</line_up>
+      <position>defender</position>
+      <titles>137</titles>
+      <sport_type>football</sport_type>
+      <rank>2nd</rank>
+    </sportsman>
+    <sportsman>
+      <name>James Longhurst</name>
+      <line_up>n/a</line_up>
+      <position>forward</position>
+      <titles>141</titles>
+      <sport_type>football</sport_type>
+      <rank>2nd</rank>
+    </sportsman>
+    <sportsman>
+      <name>Mary Tejeda</name>
+      <line_up>main</line_up>
+      <position>defender</position>
+      <titles>95</titles>
+      <sport_type>football</sport_type>
+      <rank>1st</rank>
+    </sportsman>
+    <sportsman>
+      <name>Pamela Randolph</name>
+      <line_up>main</line_up>
+      <position>midfielder</position>
+      <titles>77</titles>
+      <sport_type>football</sport_type>
+      <rank>master</rank>
+    </sportsman>
+    <sportsman>
+      <name>Donald Giles</name>
+      <line_up>n/a</line_up>
+      <position>midfielder</position>
+      <titles>7</titles>
+      <sport_type>football</sport_type>
+      <rank>2nd</rank>
+    </sportsman>
+    <sportsman>
+      <name>Susan Fisher</name>
+      <line_up>reserve</line_up>
+      <position>midfielder</position>
+      <titles>7</titles>
+      <sport_type>football</sport_type>
+      <rank>1st</rank>
+    </sportsman>
+    <sportsman>
+      <name>Connie Watson</name>
+      <line_up>reserve</line_up>
+      <position>goalkeeper</position>
+      <titles>47</titles>
+      <sport_type>football</sport_type>
+      <rank>1st</rank>
+    </sportsman>
+    <sportsman>
+      <name>Willie Lockard</name>
+      <line_up>main</line_up>
+      <position>defender</position>
+      <titles>65</titles>
+      <sport_type>football</sport_type>
+      <rank>master</rank>
+    </sportsman>
+    <sportsman>
+      <name>Michael Bartolini</name>
+      <line_up>main</line_up>
+      <position>forward</position>
+      <titles>96</titles>
+      <sport_type>football</sport_type>
+      <rank>CMS</rank>
+    </sportsman>
+    <sportsman>
+      <name>Cordelia Mackie</name>
+      <line_up>main</line_up>
+      <position>defender</position>
+      <titles>36</titles>
+      <sport_type>football</sport_type>
+      <rank>CMS</rank>
+    </sportsman>
+  </tableSporstman>
